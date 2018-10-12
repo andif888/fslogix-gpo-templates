@@ -731,7 +731,7 @@
       <parentCategory ref="6a0b4022f3fb5302d7535c6053c98986" />
       <supportedOn ref="18aba9a1585c1a6d76e6736fcb39d2b8" />
       <elements>
-        <text id="7afe18ca9a4c1ba51f9fbc85c55b9f24" key="Software\FSLogix\Profiles" valueName="VHDLocations" required="true" />
+        <multiText id="7afe18ca9a4c1ba51f9fbc85c55b9f24" key="Software\FSLogix\Profiles" valueName="VHDLocations" required="true" />
       </elements>
     </policy>
     <policy name="fce0e4a3cd915c3ae34a271e8dc8dd6b" class="Machine" displayName="$(string.1cd63598d7a6b6827b9a8e0c281a511c)" explainText="$(string.404303abd6d15cf2c6fbc90a97315707)" presentation="$(presentation.fce0e4a3cd915c3ae34a271e8dc8dd6b)" key="Software\FSLogix\Profiles">

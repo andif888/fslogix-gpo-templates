@@ -353,9 +353,7 @@
         <checkBox refId="6bf06db968eddea70ab86c1a5b03abce">Enabled</checkBox>
       </presentation>
       <presentation id="7afe18ca9a4c1ba51f9fbc85c55b9f24">
-        <textBox refId="7afe18ca9a4c1ba51f9fbc85c55b9f24">
-          <label>VHD location</label>
-        </textBox>
+        <multiTextBox refId="7afe18ca9a4c1ba51f9fbc85c55b9f24">VHD locations</multiTextBox>
       </presentation>
       <presentation id="fce0e4a3cd915c3ae34a271e8dc8dd6b">
         <checkBox refId="fce0e4a3cd915c3ae34a271e8dc8dd6b">Allow concurrent user sessions</checkBox>
